@@ -1,0 +1,13 @@
+Chamber,Name,Final cycle,Final-cycle solve time (s),Result
+01,Two Hands,2,4.40,PASS
+02,Through the Shutter,2,2.75,PASS
+03,Early Shift,2,23.05,PASS
+04,Lift Window,2,28.15,PASS
+05,Full Crew,3,9.85,PASS
+06,Relay Race,3,23.05,PASS
+07,Sealed Route,3,10.55,PASS
+08,The Transfer,3,25.95,PASS
+09,Split Shift,3,34.00,PASS
+10,Relief Shift,3,38.70,PASS
+11,Return Route,10,55.30,PASS
+12,Loopbreaker,3,51.20,PASS
